@@ -32,7 +32,7 @@
 | クラス | 説明 | `n` の値 |
 |--------|------|----------|
 | `flex` `inline-flex` | フレックスボックスの設定 | - |
-| `flex-row` `flex-col` | フレックス方向 | - |
+| `flex-row` `flex-row-reverse` `flex-col` `flex-col-reverse` | フレックス方向 | - |
 | `flex-wrap` `flex-nowrap` `flex-wrap-reverse` | フレックスラップ設定 | - |
 | `justify-{start\|center\|end\|between\|around\|evenly}` | 横方向の配置 | - |
 | `items-{start\|center\|end\|baseline\|stretch}` | 縦方向の配置 | - |

@@ -34,6 +34,7 @@
 | `flex` `inline-flex` | フレックスボックスの設定 | - |
 | `flex-row` `flex-row-reverse` `flex-col` `flex-col-reverse` | フレックス方向 | - |
 | `flex-wrap` `flex-nowrap` `flex-wrap-reverse` | フレックスラップ設定 | - |
+| `flex-1`  | - | - |
 | `justify-{start\|center\|end\|between\|around\|evenly}` | 横方向の配置 | - |
 | `items-{start\|center\|end\|baseline\|stretch}` | 縦方向の配置 | - |
 | `self-{auto\|start\|center\|end\|stretch}` | セルフアライン | - |
